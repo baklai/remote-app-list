@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f0f0f1;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+}
+
+.bg-main {
+  background-color: #fff;
+  border: 1px solid #c3c4c7;
+}
