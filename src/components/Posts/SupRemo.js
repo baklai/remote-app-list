@@ -49,14 +49,14 @@ function SupRemo() {
 
       <section className="mb-10">
         <h4>
-          <b>Крок 1</b> - Завантаження Supremo
+          <b>Крок 1</b> - Завантаження портативної версії додатку Supremo
         </h4>
         <blockquote className="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">
           <p>
-            Завантажте додаток зі справки або з
+            Завантажте портативну версію додатоку зі справки або з&nbsp;
             <span className="underline hover:text-blue-900">
               <a href="https://www.supremocontrol.com/download-supremo/">
-                офіційного сайту.
+                офіційного сайту Supremo.
               </a>
             </span>
           </p>
