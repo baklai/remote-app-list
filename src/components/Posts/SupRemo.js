@@ -120,7 +120,7 @@ function SupRemo() {
 
       <section className="mb-10">
         <h3>
-          <b>Шаг 3</b> - Ваш ID та Пароль
+          <b>Крок 4</b> - Ваш ID та Пароль
         </h3>
         <blockquote className="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">
           <p>ID та Пароль для віддаленого підключення</p>
@@ -139,7 +139,7 @@ function SupRemo() {
 
       <section className="mb-10">
         <h3>
-          <b>Шаг 4</b> - Зворотній зв'язок
+          <b>Крок 5</b> - Зворотній зв'язок
         </h3>
         <blockquote className="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">
           <p>Дзвінок на техпідтримку</p>
