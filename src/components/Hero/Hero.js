@@ -1,6 +1,6 @@
 import React from 'react';
 
-import imgCover from './img/cover.png';
+import imgCover from './img/cover.webp';
 
 function App() {
   return (

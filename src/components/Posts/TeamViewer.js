@@ -3,12 +3,12 @@ import React from 'react';
 import PostCard from '../PostCard/PostCard';
 
 import imgCardHero from './img/teamviewer.webp';
-import imgDownload from './img/teamviewer-download.png';
-import imgInstall from './img/teamviewer-install.png';
-import imgInstallStart from './img/teamviewer-install-start.png';
-import imgInstallLicense from './img/teamviewer-install-license.png';
-import imgRun from './img/teamviewer-run.png';
-import imgUserID from './img/teamviewer-user-id.png';
+import imgDownload from './img/teamviewer-download.webp';
+import imgInstall from './img/teamviewer-install.webp';
+import imgInstallStart from './img/teamviewer-install-start.webp';
+import imgInstallLicense from './img/teamviewer-install-license.webp';
+import imgRun from './img/teamviewer-run.webp';
+import imgUserID from './img/teamviewer-user-id.webp';
 
 function TeamViewerCard({ onclick }) {
   return (

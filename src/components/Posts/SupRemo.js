@@ -2,11 +2,11 @@ import React from 'react';
 
 import PostCard from '../PostCard/PostCard';
 
-import imgCardHero from './img/supremo.jpg';
-import imgDownload from './img/supremo-download.png';
-import imgInstall from './img/supremo-install.png';
-import imgRun from './img/supremo-run.png';
-import imgUserID from './img/supremo-user-id.png';
+import imgCardHero from './img/supremo.webp';
+import imgDownload from './img/supremo-download.webp';
+import imgInstall from './img/supremo-install.webp';
+import imgRun from './img/supremo-run.webp';
+import imgUserID from './img/supremo-user-id.webp';
 
 function SupRemoCard({ onclick }) {
   return (
